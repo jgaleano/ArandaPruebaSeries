@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url_search_service">http://mymovieapi.com/</string>
+    <string name="type_param">type</string>
+    <string name="type_value">json</string>
+    <string name="title_param">title</string>
+    <string name="limit_param">limit</string>
+    <string name="offset">offset</string>
+</resources>

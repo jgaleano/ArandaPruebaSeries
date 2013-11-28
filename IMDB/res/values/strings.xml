@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IMDB</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="buscar_titulo_pelicula">Buscar pelicula o serie</string>
+    
+    <string name="name_title">Nombre: </string>
+    <string name="genders_title">Generos: </string>
+    <string name="actors_title">Actores: </string>
+
+</resources>

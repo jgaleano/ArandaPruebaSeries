@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="responseArray">responseArray</string>
+    <string name="genres">genres</string>
+    <string name="actors">actors</string>
+    <string name="title">title</string>
+    <string name="episodes">episodes</string>
+    <string name="seasson">season</string>
+    <string name="episode">episode</string>
+    <string name="poster">poster</string>
+    <string name="imdb">imdb</string>
+    <string name="result">result</string>
+    <string name="code">code</string>
+</resources>

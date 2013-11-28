@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/btn_buscar"
+        android:title="@string/buscar_titulo_pelicula"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        yourapp:actionViewClass="android.support.v7.widget.SearchView"
+        yourapp:showAsAction="ifRoom|collapseActionView"/>
+
+</menu>
